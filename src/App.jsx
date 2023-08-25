@@ -1,5 +1,3 @@
-// Write your Color component here
-
 const App = () => {
   return (
     <div id="container">
